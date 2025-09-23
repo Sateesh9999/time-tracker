@@ -10,6 +10,10 @@ Simple Java-app using Maven.
 
 Standard maven targets for building.
 
+#Testing pollSCM
+
+demo change
+
 Requirements:
 
 * JDK 17+
